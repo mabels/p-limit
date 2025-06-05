@@ -20,6 +20,7 @@
 		"node": ">=18"
 	},
 	"scripts": {
+                "build": "echo vendor need this",
 		"test": "xo && ava && tsd"
 	},
 	"files": [
